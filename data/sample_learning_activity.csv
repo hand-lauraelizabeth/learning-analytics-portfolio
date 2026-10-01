@@ -1,0 +1,37 @@
+participant_id,event_date,organization_id,topic,delivery_format,activity_type
+P001,2026-01-14,ORG001,Data & Analytics,Virtual,registration
+P001,2026-01-14,ORG001,Data & Analytics,Virtual,attendance
+P001,2026-01-14,ORG001,Data & Analytics,Virtual,completion
+P002,2026-01-14,ORG001,Data & Analytics,Virtual,registration
+P002,2026-01-14,ORG001,Data & Analytics,Virtual,attendance
+P003,2026-02-05,ORG002,AI for Marketing,Virtual,registration
+P003,2026-02-05,ORG002,AI for Marketing,Virtual,attendance
+P003,2026-02-05,ORG002,AI for Marketing,Virtual,completion
+P004,2026-02-05,ORG003,AI for Marketing,Virtual,registration
+P004,2026-02-05,ORG003,AI for Marketing,Virtual,attendance
+P005,2026-03-18,ORG003,Measurement,In Person,registration
+P005,2026-03-18,ORG003,Measurement,In Person,attendance
+P005,2026-03-18,ORG003,Measurement,In Person,completion
+P006,2026-04-09,ORG004,Brand Strategy,Virtual,registration
+P006,2026-04-09,ORG004,Brand Strategy,Virtual,attendance
+P007,2026-04-09,ORG004,Brand Strategy,Virtual,registration
+P008,2026-05-21,ORG005,Creative Effectiveness,In Person,registration
+P008,2026-05-21,ORG005,Creative Effectiveness,In Person,attendance
+P008,2026-05-21,ORG005,Creative Effectiveness,In Person,completion
+P009,2026-06-11,ORG001,AI for Marketing,Virtual,registration
+P009,2026-06-11,ORG001,AI for Marketing,Virtual,attendance
+P010,2026-07-16,ORG006,Procurement,Virtual,registration
+P010,2026-07-16,ORG006,Procurement,Virtual,attendance
+P010,2026-07-16,ORG006,Procurement,Virtual,completion
+P011,2026-08-13,ORG002,Data & Analytics,In Person,registration
+P011,2026-08-13,ORG002,Data & Analytics,In Person,attendance
+P012,2026-09-10,ORG005,AI for Marketing,Virtual,registration
+P012,2026-09-10,ORG005,AI for Marketing,Virtual,attendance
+P012,2026-09-10,ORG005,AI for Marketing,Virtual,completion
+P013,2026-09-24,ORG006,Measurement,Virtual,registration
+P014,2026-10-08,ORG003,Brand Strategy,In Person,registration
+P014,2026-10-08,ORG003,Brand Strategy,In Person,attendance
+P014,2026-10-08,ORG003,Brand Strategy,In Person,completion
+P015,2026-11-12,ORG004,Creative Effectiveness,Virtual,registration
+P015,2026-11-12,ORG004,Creative Effectiveness,Virtual,attendance
+P016,2026-12-03,ORG001,AI for Marketing,Virtual,registration
