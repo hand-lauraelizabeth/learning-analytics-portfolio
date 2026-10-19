@@ -6,7 +6,7 @@ Reproducible examples of learning and engagement analytics using **fully synthet
 
 This repository demonstrates how I structure learning-activity data, define practical KPIs, analyze engagement and conversion, and turn operational records into decision-support outputs. It contains no proprietary, employer, client, student, or member data.
 
-> **Technical-extension note:** `analysis/funnel_qa.py` is an AI-assisted technical translation / learning extension. It is included to make the analytical logic inspectable and reproducible, but it should **not** be read as independent evidence of my Python proficiency until I have personally run, reviewed, and can explain the workflow.
+**Implementation note:** The optional `analysis/funnel_qa.py` script provides reproducible checks for missing values, duplicate activity records, funnel-stage consistency, and reported totals. Its implementation was developed with AI assistance; the dataset is synthetic and the analytical logic is available for inspection.
 
 ## Results at a glance
 
