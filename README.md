@@ -4,6 +4,8 @@
 
 Reproducible examples of learning and engagement analytics using **fully synthetic data**.
 
+**Related website project:** [Learning Experiment & Statistical Analysis](https://www.lauraelizabethhand.com/project/learning-experiment-statistical-analysis/) illustrates a separate synthetic experimental-design workbook; it does not use this repository's dataset.
+
 This repository demonstrates how I structure learning-activity data, define practical KPIs, analyze engagement and conversion, and turn operational records into decision-support outputs. It contains no proprietary, employer, client, student, or member data.
 
 **Implementation note:** The optional `analysis/funnel_qa.py` script provides reproducible checks for missing values, duplicate activity records, funnel-stage consistency, and reported totals. Its implementation was developed with AI assistance; the dataset is synthetic and the analytical logic is available for inspection.
